@@ -166,7 +166,7 @@
     <value>เปิดดรอปการ์ดเดี๋ยวนี้</value>
   </data>
   <data name="idling_complete" xml:space="preserve">
-    <value>Idling complete, no more card drops available</value>
+    <value>การ Idle เสร็จสมบูรณ์, ไม่มีการ์ดให้ดรอปเพิ่มอีก</value>
   </data>
   <data name="idling_paused" xml:space="preserve">
     <value>หยุดชั่วคราว</value>
